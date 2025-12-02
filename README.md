@@ -1,3 +1,3 @@
 # projects
-<h1>project</h1>
+<h1>Ai Powered Recipie Recommendation System</h1>
 Title: Ai Powered Recipie Recommendation System
