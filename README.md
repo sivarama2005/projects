@@ -10,21 +10,21 @@ The app also allows users to download the generated recipe as a PDF using Report
 🚀 Features
 🤖 AI Recipe Generation (Gemini API)
 
-Generates personalized recipes based on user-provided inputs.
+✅Generates personalized recipes based on user-provided inputs.
 
-Produces well-formatted output including:
+✅Produces well-formatted output including:
 
-Recipe Title
+✅Recipe Title
 
-Ingredients List
+✅Ingredients List
 
 Step-by-step Instructions
 
 🖥️ Streamlit Web App
 
-Interactive and user-friendly UI.
+✅Interactive and user-friendly UI.
 
-Live response generation without page reloads.
+✅Live response generation without page reloads.
 
 📄 PDF Export (ReportLab)
 
@@ -34,15 +34,15 @@ Supports automatic line wrapping and page breaks.
 
 ⚙️ Configurable Inputs
 
-Ingredients / Dish Name
+✅Ingredients / Dish Name
 
-Meal Type (Breakfast, Lunch, Dinner)
+✅Meal Type (Breakfast, Lunch, Dinner)
 
-Cuisine Preference
+✅Cuisine Preference
 
-Cooking Time
+✅Cooking Time
 
-Complexity Level
+✅Complexity Level
 
 <h2>🛠️ Tech Stack</h2>
 
