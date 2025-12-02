@@ -44,10 +44,31 @@ Cooking Time
 
 Complexity Level
 
-🛠️ Tech Stack
-Technology	Purpose
-Python	Backend logic
-Streamlit	Web App UI
-Google Generative AI (Gemini)	Recipe generation
-ReportLab	PDF creation
-BytesIO	In-memory PDF storage
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React.js, HTML5, CSS3, JavaScript, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB, Mongoose</td>
+  </tr>
+  <tr>
+    <td>Tools & DevOps</td>
+    <td>Git, GitHub, VS Code, Postman</td>
+  </tr>
+  <tr>
+    <td>Authentication</td>
+    <td>JWT, bcrypt</td>
+  </tr>
+</table>
